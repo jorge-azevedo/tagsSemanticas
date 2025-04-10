@@ -4,3 +4,10 @@ body{
     height: 100px;
     background-color: aqua;
 }
+
+header{
+    position: relative;
+    width: 100px;
+    height: 60px;
+    background-color: black;
+}
